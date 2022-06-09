@@ -1,0 +1,13 @@
+config:
+  prefix: ./works
+  timezone: +08:00
+  defaults:
+    project_extension: .kra
+works:
+  -
+    path: part_of_neofetch_mixture
+    size: 470416
+    created_at: 2022-06-09T16:24:58Z
+    accessed_at: 2022-06-09T16:23:05Z
+    modified_at: 2022-06-09T16:23:06Z
+    description: Just a first look into graphic tablet and pen.
