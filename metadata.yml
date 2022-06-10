@@ -39,3 +39,39 @@ works:
     accessed_at: 2022-06-09T21:58:16Z
     modified_at: 2022-06-09T21:58:16Z
     description: Figure \#4 of Experiment \#5 of electric circuit.
+  -
+    path: electric_circuit_experiment_6_1
+    size: 1099544
+    created_at: 2022-06-10T14:12:08Z
+    accessed_at: 2022-06-10T14:49:09Z
+    modified_at: 2022-06-10T14:49:08Z
+    description: Figure \#1 of Experiment \#6 of electric circuit.
+  -
+    path: electric_circuit_experiment_6_2
+    size: 1118289
+    created_at: 2022-06-10T14:55:01Z
+    accessed_at: 2022-06-10T14:55:01Z
+    modified_at: 2022-06-10T14:55:01Z
+    description: Figure \#2 of Experiment \#6 of electric circuit.
+
+  -
+    path: electric_circuit_experiment_6_3
+    size: 2146974
+    created_at: 2022-06-10T15:14:52Z
+    accessed_at: 2022-06-10T16:06:40Z
+    modified_at: 2022-06-10T16:06:40Z
+    description: Figure \#3 of Experiment \#6 of electric circuit.
+  -
+    path: electric_circuit_experiment_6_4
+    size: 1406801
+    created_at: 2022-06-10T16:44:04Z
+    accessed_at: 2022-06-10T16:48:27Z
+    modified_at: 2022-06-10T16:48:27Z
+    description:
+  -
+    path: electric_circuit_experiment_6_5
+    size: 1412393
+    created_at: 2022-06-10T16:50:23Z
+    accessed_at: 2022-06-10T16:55:15Z
+    modified_at: 2022-06-10T16:55:14Z
+    description:
